@@ -61,6 +61,10 @@ h1, h2, h3, h4, h5, h4, p, a, input, textarea, ul{
     border-radius: 15px;
 }
 
+.elem2{
+    display: none;
+}
+
 
 .boton-index{
     border: 0;
@@ -634,6 +638,10 @@ h1, h2, h3, h4, h5, h4, p, a, input, textarea, ul{
 /* MEDIAS QUERIES */
 
 @media screen and (max-width: 900px){
+
+    .elem2{
+        display: block;
+    }
 
     body{
         background-color: #6B0F1A;
