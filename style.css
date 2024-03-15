@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h4, p, a, input, textarea, ul{
     border-radius: 15px;
 }
 
-.elem2{
+.bi-list{
     display: none;
 }
 
@@ -639,7 +639,7 @@ h1, h2, h3, h4, h5, h4, p, a, input, textarea, ul{
 
 @media screen and (max-width: 900px){
 
-    .elem2{
+    .bi-list{
         display: block;
     }
 
